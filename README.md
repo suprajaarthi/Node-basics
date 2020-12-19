@@ -1,7 +1,10 @@
 # Node-basics-
 Basic node concepts 
+
 1.Global objects
+
 2.Functional expressions 
+
 3.Using modules and require 
 4.Module patterns
 5.Reading and Writing files 
@@ -15,6 +18,12 @@ Basic node concepts
 10.Serving Json data
 11.Installing Express 
 12.Template Engine
+13.Middleware and Static Files 
+14. Query strings 
+15.Handling Post requests
+
+
+And More on the way...
 
 
 
