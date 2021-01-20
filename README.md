@@ -7,8 +7,8 @@
   - No process gets blocked - Non blocking I/O
   - Cross platform environment 
   
-<b>Initially Uber used Multi thread Programming Language PHP</b>
-  - It handles each request on a single thread 
+<b>Initially Uber used Multi thread Programming Language</b>
+  - PHP handles each request on a single thread 
   - Car dispatch operation was executed from multithreads  
   - Once a car is dispatched to a user , the same car was dispatched to another user 
   
