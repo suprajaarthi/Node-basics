@@ -28,6 +28,12 @@
     - In Non-blocking ,  the Waitress asks for the order of all the customers  parallely and when the chef prepares , serves the order simultaneously. 
     - Does not wait for the current request to end 
 
+<b>NPM</b>
+  - Node Package Manager
+  - Provides online repositories for node.js packages/modules 
+  - Provides command line utility to install node.js packages
+  
+  
 1.Global objects
 
 2.Functional expressions 
