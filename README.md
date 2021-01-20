@@ -1,15 +1,21 @@
 # Node-basics-
 
 Node js 
-  - event driven 
-  - handles request asynchronously 
-  - single thread 
-  - no process gets blocked 
+  - Event driven architecture
+  - Handles request asynchronously 
+  - Single thread 
+  - No process gets blocked - non blocking I/O
+  - Cross platform environment 
   
 Initially Uber used Multi thread Programming Language PHP 
   - It handles each request on a single thread 
   - Car dispatch operation was executed from multithreads  
   - Once a car is dispatched to a user , the same car was dispatched to another user 
+  
+Asynchronous mechanism:
+  - When a request is made to server , instead of waiting for the request to complete, server continues to process other requests
+  - When request processing completes, the response is sent to caller using callback mechanism
+  
 1.Global objects
 
 2.Functional expressions 
