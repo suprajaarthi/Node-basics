@@ -1,6 +1,15 @@
 # Node-basics-
-Basic node concepts 
 
+Node js 
+  - event driven 
+  - handles request asynchronously 
+  - single thread 
+  - no process gets blocked 
+  
+Initially Uber used Multi thread Programming Language PHP 
+  - It handles each request on a single thread 
+  - Car dispatch operation was executed from multithreads  
+  - Once a car is dispatched to a user , the same car was dispatched to another user 
 1.Global objects
 
 2.Functional expressions 
