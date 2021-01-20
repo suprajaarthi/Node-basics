@@ -39,8 +39,6 @@
   - ***npm install module name g***
     - installs the dependency globally
 
-
-
 1.Global objects
 
 2.Functional expressions 
