@@ -20,7 +20,7 @@
   - It does not buffer any data
   - It outputs the data in chunks 
   
- <b>Non Blocking & Blocking<b>
+ <b>Non Blocking & Blocking</b>
   - Understand with the help of a Restaurant scenario 
   - Blocking 
     - In blocking , the Waitress asks for the order and waits till the chef prepares it , serves the 1st order and then proceeds to the next 
