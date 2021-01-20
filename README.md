@@ -27,6 +27,7 @@
   - Non Blocking 
     - In Non-blocking ,  the Waitress asks for the order of all the customers  parallely and when the chef prepares , serves the order simultaneously. 
     - Does not wait for the current request to end 
+
 1.Global objects
 
 2.Functional expressions 
