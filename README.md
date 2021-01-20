@@ -34,9 +34,9 @@
   - Provides command line utility to install node.js packages
   - ***npm install***
     - installs all the modules as specified in the package.json 
-   - ***npm install module name***
+  - ***npm install module name***
     - installs module using npm 
-   - ***npm install module name g***
+  - ***npm install module name g***
     - installs the dependency globally
 1.Global objects
 
