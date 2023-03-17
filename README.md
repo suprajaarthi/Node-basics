@@ -40,8 +40,8 @@
 **ES6 Feature** 
 `
 console.log('listening on port'+chalk.green('3000');
-console.log(`listening on port ${chalk.green('3000')}`);
-`
+console.log(``listening on port ${chalk.green('3000')}`);
+``
 
 # Node.js-concepts
 <b>Features</b>
